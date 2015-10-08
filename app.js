@@ -19,3 +19,5 @@ function powerOfTwo(num) {
 }
 
 console.log(powerOfTwo(100));
+
+
